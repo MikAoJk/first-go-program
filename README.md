@@ -2,6 +2,7 @@
 This project is for testing the go programming language
 
 [![build main branch](https://github.com/MikAoJk/first-go-program/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/MikAoJk/first-go-program/actions/workflows/build.yml)
+
 ## Technologies used:
 - Go
 
