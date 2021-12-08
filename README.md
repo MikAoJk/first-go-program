@@ -1,8 +1,7 @@
 # first-go-program
 This project is for testing the go programming language
 
-[![run main branch](https://github.com/MikAoJk/first-go-program/actions/workflows/run.yml/badge.svg?branch=main)](https://github.com/MikAoJk/first-go-program/actions/workflows/run.yml)
-
+[![build main branch](https://github.com/MikAoJk/first-go-program/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/MikAoJk/first-go-program/actions/workflows/build.yml)
 ## Technologies used:
 - Go
 
